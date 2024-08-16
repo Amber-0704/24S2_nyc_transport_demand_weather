@@ -129,8 +129,11 @@ dmypy.json
 .pyre/
 
 # data
-data/curated/
-data/raw/
-
+data/raw/external_data/cityBike_data/2023-citibike-tripdata.zip
+data/raw/external_data/cityBike_data/citybike_raw_data
+data/raw/external_data/cityBike_data/2023-citibike-tripdata
+data/raw/external_data/weather_raw_data.csv
+data/raw/NYCTLC_data/green_taxi
+data/raw/NYCTLC_data/yellow_taxi
 # OSX .DS_Store file
 .DS_Store
