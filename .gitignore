@@ -131,5 +131,7 @@ dmypy.json
 # data
 data/raw
 data/data_after_preprocessing
+data/after_EDA_data_Engineering
+
 # OSX .DS_Store file
 .DS_Store
